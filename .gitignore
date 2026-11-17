@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+*.db
+models/*.keras
+models/*.pkl
+data/raw/*
+data/processed/*
+*.log
+.DS_Store

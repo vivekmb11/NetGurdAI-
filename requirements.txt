@@ -1,0 +1,15 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Werkzeug
+python-dotenv
+numpy<2
+pandas
+scikit-learn
+tensorflow
+matplotlib
+seaborn
+joblib
+openpyxl
+polars
+pyarrow
